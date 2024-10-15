@@ -70,6 +70,10 @@ body{
 }
 
 @media screen and (max-width: 450px) {
+    .main{
+        height: 60%;
+    }
+
     #head{
         font-size: 8vw;
     }
@@ -83,3 +87,30 @@ body{
     }
 }
 
+@media screen and (max-width: 300px){
+    .main{
+        height: 50%;
+        width: 70%;
+    }
+
+    #head{
+        font-size: 10vw;
+    }
+    
+    .main p{
+        font-size: 3vw;
+    }
+    
+    .head1{
+        font-size: 5vw;
+    }
+
+    #btn{
+        font-size: 12px;
+        padding: 3px 4px;
+    }
+
+    #ans{
+        font-size: 4vw;
+    }
+}
