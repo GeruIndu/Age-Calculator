@@ -7,5 +7,4 @@ Here you just input your birthday date and it access the current date from your 
 > And it is also responsive and user friendly 
 
 
-here the link 🖇️ please visit 🙏
-https://geruindu.github.io/Age-Calculator/
+[here](https://geruindu.github.io/Age-Calculator/)the link 🖇️ please visit 🙏
